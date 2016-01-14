@@ -1,0 +1,11 @@
+parameters:
+    # parameter_name: value
+
+services:
+    jms_serializer.doctrine_object_constructor:
+        class: AppBundle\Serializer\DoctrineObjectConstructor
+        public: true
+        arguments: ["@doctrine", "@jms_serializer.unserialize_object_constructor"]
+    jms_serializer.object_constructor:
+        alias: jms_serializer.doctrine_object_constructor
+        public: true

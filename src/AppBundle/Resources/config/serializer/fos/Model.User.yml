@@ -1,0 +1,45 @@
+FOS\UserBundle\Model\User:
+    exclusion_policy: NONE
+    properties:
+        id:
+            type: integer
+        username:
+            type: string
+        usernameCanonical:
+            type: string
+        email:
+            type: string
+        emailCanonical:
+            type: string
+        confirmationToken:
+            type: string
+        enabled:
+            type: boolean
+        locked:
+            type: boolean
+        expired:
+            type: boolean
+        credentialsExpired:
+            type: boolean
+        credentialsExpireAt:
+            type: DateTime
+        expiresAt:
+            type: DateTime
+        lastLogin:
+            type: DateTime
+        passwordRequestedAt:
+            type: DateTime
+        password:
+            type: string
+        plainPassword:
+            exclude: true
+        groups:
+            exclude: true
+        salt:
+            exclude: true
+        roles:
+            type: array<string>
+            xml_list:
+                entry_name: role
+
+

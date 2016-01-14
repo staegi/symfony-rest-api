@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<user>
+    <id>1</id>
+    <username><![CDATA[admin]]></username>
+    <username_canonical><![CDATA[admin]]></username_canonical>
+    <email><![CDATA[admin@cocoaco.de]]></email>
+    <email_canonical><![CDATA[admin@cocoaco.de]]></email_canonical>
+    <enabled>true</enabled>
+    <password><![CDATA[$2y$13$4mvcmdehjp2coco8sgkw8egeNvWHXplyy7ou0W0nJb0j8O33KciCy]]></password>
+    <last_login><![CDATA[2016-01-04T12:13:14+0100]]></last_login>
+    <locked>false</locked>
+    <expired>false</expired>
+    <roles>
+        <role><![CDATA[ROLE_SUPER_ADMIN]]></role>
+    </roles>
+    <credentials_expired>false</credentials_expired>
+</user>

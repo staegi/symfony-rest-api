@@ -1,0 +1,3 @@
+user:
+    resource: "@AppBundle/Controller/UserController.php"
+    type:     rest

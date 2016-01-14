@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <code>404</code>
+    <message><![CDATA[No entity found with identifier 2]]></message>
+    <errors xsi:nil="true"/>
+</result>

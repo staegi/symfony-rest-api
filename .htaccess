@@ -1,0 +1,3 @@
+# Used for Domainfactory to define PHP version
+# See: https://www.df.eu/de/service/df-faq/webhosting/skriptsprachen/php-versionsauswahl/
+AddType application/x-httpd-php55 .php

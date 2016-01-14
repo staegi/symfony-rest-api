@@ -1,0 +1,15 @@
+{
+  "username": "admin",
+  "username_canonical": "admin",
+  "email": "admin@cocoaco.de",
+  "email_canonical": "admin@cocoaco.de",
+  "enabled": true,
+  "password": "$2y$13$4mvcmdehjp2coco8sgkw8egeNvWHXplyy7ou0W0nJb0j8O33KciCy",
+  "locked": false,
+  "expired": false,
+  "roles": [
+    "ROLE_SUPER_ADMIN"
+  ],
+  "last_login": "2016-01-04T12:13:14+0100",
+  "credentials_expired": false
+}

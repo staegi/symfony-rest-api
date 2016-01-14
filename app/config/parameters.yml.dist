@@ -1,0 +1,19 @@
+parameters:
+    database_host: 127.0.0.1
+    database_port: ~
+    database_name: dev-db
+    database_user: dev-user
+    database_password: dev-pass
+
+    test_database_name: test-db
+    test_database_user: test-user
+    test_database_password: test-pass
+
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: ~
+    mailer_password: ~
+
+    secret: =+J*2.*'u=VBdMV:
+
+    frontend_uri: http://dev.frontend-app.com
