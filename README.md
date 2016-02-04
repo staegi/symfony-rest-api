@@ -1,6 +1,8 @@
 REST API based on Symfony 2
 ===========================
 
+[![Total Downloads](https://poser.pugx.org/staegi/symfony-rest-api/downloads)](https://packagist.org/packages/staegi/symfony-rest-api)[![Latest Stable Version](https://poser.pugx.org/staegi/symfony-rest-api/version)](https://packagist.org/packages/staegi/symfony-rest-api)[![License](https://poser.pugx.org/staegi/symfony-rest-api/license)](https://packagist.org/packages/staegi/symfony-rest-api)
+
 This is a nice start point to create an application which provides a REST interface to your database.
 
 #Requirements
