@@ -1,7 +1,7 @@
 {
   "name": "staegi/symfony-rest-api",
   "description": "The \"Symfony2 REST API \" project",
-  "license": "proprietary",
+  "license": "MIT",
   "type": "project",
   "autoload": {
     "psr-4": {
